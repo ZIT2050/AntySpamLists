@@ -1,0 +1,2 @@
+# AntySpamLists
+Darmowa lista spamerów
