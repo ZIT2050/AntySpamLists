@@ -5,6 +5,7 @@ Wszystkie wyłowione skryptami lub ręcznie z realnego spamu
 
 ==> Bierz i używaj w swoim antyspamie albo firewallu czy bramce
 
+
 Pomocne linki dotyczące walki ze spamem:
 
 [https://zabojcaspamu.pl/](https://zabojcaspamu.pl/)
