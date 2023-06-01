@@ -304,4 +304,5 @@ blacklist_from *@infooffice.pl
 blacklist_from *@odkupimy.com
 blacklist_from *@cyfryzacja.waw.pl
 blacklist_from *@mail-wspolnoty.pl
+blacklist_from *@wupselqin.com
 ### @ITS END   #######################################
