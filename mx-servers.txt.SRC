@@ -2,6 +2,31 @@
 # (EN) Real headers from spam mails as a proof
 
 # // Wyłuskaj adresy IP i dodaj do czarnych list albo do firewall-a typu iptables firewalld czy ufw
+
+Received: from mail.wupselqin.com ([5.249.155.4])
+Received: from i2.wknock.com (i2.wknock.com [145.239.119.169])
+Received: from smtp.trol.pl ([92.43.119.10] helo=merkury.trol.pl)
+Received: from outmail.alexandria.cz ([81.0.208.205])
+Received: from send.alexandria.cz ([81.0.208.203])
+Received: from mail.delancer.makeup ([212.32.242.90])
+Received: from delancer.makeup (unknown [62.76.185.106])
+Received: from delancer.makeup (unknown [193.164.16.158])
+Received: from mail.nistalle.gb.net ([185.15.244.91])
+Received: from nistalle.gb.net (unknown [95.47.161.63])
+Received: from nistalle.gb.net (rosane.skin [95.47.161.65])
+Received: from nistalle.gb.net (ocdataclub.skin [109.248.147.159])
+Received: from auc020.kinet-tv.ne.jp ([61.86.246.20] helo=sv.design-fg.com)
+Received: from User (unknown [106.255.253.178])
+Received: from mail.broadwell.pl ([185.176.222.72])
+Received: from mail.privacy.khakassia.su ([194.53.54.7])
+Received: from privacy.khakassia.su (229004-5.vm.clodoserver.ru [62.76.188.81])
+Received: from delancer.makeup (229004-6.vm.clodoserver.ru [62.76.184.90])
+Received: from [46.98.234.54] (helo=mail.premiere.dp.ua)
+Received: from hsrt2.premier.com ([172.17.17.254] helo=sss-sg.sg)
+Received: from mail0.biatorbagy.hu ([81.182.246.132])
+Received: from mail.boolkins.be ([212.32.242.90])
+
+
 Received: from mx.terazpolecamy.pl ([145.239.82.16])
 Received: from mx.tradesmart24.pl ([185.180.206.141])
 Received: from mx.wowmedia.pl ([91.228.198.198])
@@ -1268,4 +1293,3 @@ Received: from consultancyrental.work ([188.214.104.142]:43418)
 Received: from count-mega.trade ([93.119.104.77]:45646)
 Received: from inform-scale.world ([89.33.193.30]:43974)
 Received: from mail-db5eur01olkn2082.outbound.protection.outlook.com ([40.92.64.82]:25619 helo=EUR01-DB5-obe.outbound.protection.outlook.com)
-
