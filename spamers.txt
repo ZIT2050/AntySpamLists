@@ -204,6 +204,7 @@ blacklist_from *@top5-dlafirm.pl
 blacklist_from *@analizy-sxo.pl
 blacklist_from *@leadstoyou.pl
 blacklist_from *@twoja-wlasna-strona-www.pl
+blacklist_from *@review4free.com
 
 # Sklepy i inne
 blacklist_from *@anzgra.waw.pl
@@ -306,3 +307,4 @@ blacklist_from *@cyfryzacja.waw.pl
 blacklist_from *@mail-wspolnoty.pl
 blacklist_from *@wupselqin.com
 ### @ITS END   #######################################
+
