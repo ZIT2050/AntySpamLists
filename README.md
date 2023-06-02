@@ -23,7 +23,7 @@ Pomocne linki dotyczące walki ze spamem:
 
 
 --------------------------------------------
-## Free lists of spamers and mail servers in Poland and not only
+## Free lists of spamers and spam mail servers in Poland and not only
 
 All of them were extracted via scripts or by hand from real spam
 
