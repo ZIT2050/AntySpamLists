@@ -1,2 +1,3 @@
 # Dostosuj do swoich potrzeb np. do spamu mogą trafiać powiadomienia o przelewach z PayPal czy bramek płatności np. Przelewy24
+# Przy budowaniu swojej listy wykluczam poniższe:
 "facebook.com|google.com|protection.outlook.com|onet|wp.pl|tlen.pl|o2.pl|interia.pl|allegro.pl|paypal.com|p24.org.pl"
